@@ -3,9 +3,9 @@ A repository containing the materials for the Geospatial Teen Fertility Rates in
 
 This repository stores all the scripts and databases needed to build data visualizations about Teen Fertility Rates in Peru. The final products are also stored.
 
-Map: The purpose of this code is to generate a map that captures early fertility rates at the provincial level using the ENDES databases.
+Map: The purpose of this code is to generate a map that captures early fertility rates at the provincial level using the Peruvian Census databases available for 2007 and 2017.
 
-Map_nacimiento: The purpose of this code is to generate a map that reflects the percentage of young mothers using the database provided by the Ministry of Health at the provincial level.
+Map_nacimiento: The purpose of this code is to generate a map that reflects the percentage of young mothers using the database provided by the Ministry of Health at the province level (2012-2020).
 
 Main Databases: 
 * ENDES (2007 - 2017)
